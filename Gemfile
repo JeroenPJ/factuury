@@ -16,6 +16,9 @@ gem 'sass-rails'
 gem 'simple_form'
 gem 'uglifier'
 
+gem 'wicked_pdf'
+gem 'wkhtmltopdf-binary'
+
 group :development, :test do
   gem 'better_errors'
   gem 'binding_of_caller'
